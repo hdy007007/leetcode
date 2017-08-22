@@ -1,0 +1,1 @@
+Two loops for 0 to width and 0 to height, if reach grid[i][j] == 0,  assgin all this area that equal to 1 zero.
