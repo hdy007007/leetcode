@@ -1,0 +1,7 @@
+1.create a head link-node(newHead)
+2.create a int variable(add = 0)
+3.create pointers:p1 = l1,p2 = l2,p = newHead
+4.while p1 dosen't equal to NULL and p2 dosen't equal to NULL,create a loop to caculate the sum of values in p1 and p2 and add, if the sum greater than 10, save the sum%10 in add
+5.while p1 dosen't equal to NULL, continue doing the loop
+6.while p2 dosen't equal to NULL, continue doing the loop
+7.if add dosen't equal to 0, the value of newNode is the value of add 
