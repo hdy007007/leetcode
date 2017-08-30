@@ -1,0 +1,4 @@
+dynamic planning
+1.declare variables 'local' and 'global', and init those as nums[0].
+2.every loop, if local less than zero, local  update to nums[i].
+3.if global less than local , global update to local. 
